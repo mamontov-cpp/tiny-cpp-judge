@@ -1,0 +1,1 @@
+g++ getmem.cpp -o getmem -lpsapi
